@@ -1,0 +1,106 @@
+
+            COP5570 Project No.2 Self Grading Sheet
+
+
+Name: Joel Bustamante                           FSU login:jsb21j
+
+----------------------------------------------------------------------------
+
+README/makefile (5)
+                                 __5__                 _______
+
+
+Run executable 1 (5)
+                                 __5__                 _______
+
+
+Run executable 2 (5)
+                                 __5__                 _______
+
+
+show, history, quit, exit (5)
+                                 __5__                 _______
+
+
+set, FSU_PATH, prompt,
+whereis, which, cd       (5)
+                                 __5__                 _______
+
+
+log on/log off (10)
+                                 _10__                 ______
+
+
+launch (5)
+                                 __5__                 _______
+
+
+Background/foreground exec (5)
+                                 __5__                 ________
+
+
+Ctrl-C for fg/bg processes (5)
+                                 __5__                 ________
+
+
+Keyboard input access (5)
+                                 __5__                 ________
+
+
+Multiple commands (;) (5)
+                                 __5__                 ________
+
+
+Command repetition (!) (5)
+                                 __5__                 ________
+
+
+File redirection (> and <) (5)
+                                 __5__                 ________
+
+
+up to 5 pipes (5)
+                                 __5__                 ________
+
+
+Up/down, Ctrl-P, Ctrl-N, backspace, Ctrl-A (5)
+
+                                 __5__                 ________
+
+
+Ctrl-K (5)
+                                 __5__                 ________
+
+
+Exit after children are finished (5)
+                                 __5__                 ________
+
+
+No zombie processes (5) 
+                                 __5__                 ________
+
+
+Combination (5)
+                                 __5__                 ________
+
+
+demo (5)
+                                 __5__                 ________
+
+
+compiler warning (-5 each)
+
+                                 _____                 ________
+
+
+Second Unknown Error (-15)  
+                                                       ________
+
+
+Third known Feature (-8)  
+                                                       ________
+
+Final Grade
+
+                                                       ________
+						       
