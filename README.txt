@@ -54,7 +54,3 @@ Use one terminal session and demonstrate the following sequence:
    - press `Ctrl-K` to kill all child process groups created by this shell
 13. Exit:
    - `exit`
-
-## 3) AI-tool usage
-
-AI assistance assistence was used for outline and some problem solving.
